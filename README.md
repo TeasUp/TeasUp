@@ -35,10 +35,10 @@
 ###
 
 <div align="left">
-  <a href="mailto:homayounkolagar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Tea_Up" target="_blank">
+<a href="mailto:homayounkolagar@gmail.com?subject=Hello&body=Write%20your%20message%20here">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+  <a href="https://t.me/Ash_Rb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/qr/ZUTOCRD6OH7IM1" target="_blank">
